@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<school>
+<class id="1" xmlns:a="http://www.w3.org/TR/html4/">
+<a:fname>aptech</a:fname>
+<a:age>age</a:age>
+</class>
+<class id="2" xmlns:h="http://www.w3.org/TR/html4/">
+<h:fname>aptech</h:fname>
+</class>
+</school>
