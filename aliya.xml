@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<school>
+    <class id="1" xmlns:a="hhtp://www/XML">
+    <a:fname>aptech</a:fname>
+    <a:age>23</a:age>
+    </class>
+    <class id="2" xmlns:f="hhtp://www/XML">
+    <f:fname>aptech</f:fname>
+    <f:age>23</f:age>
+    </class>
+</school>
