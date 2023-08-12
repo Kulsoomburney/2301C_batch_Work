@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<office>
+<manger id="1" xmlns:a="http://www.w3.org/TR/html4/">
+<a:name>Ahmed Zahid</a:name>
+<a:age>28</a:age>
+<a:phone>03161103645</a:phone>
+<a:company>Ali and Co</a:company>
+</manger>
+<worker id="2">
+<name>Anuns majeed</name>
+<age>22</age>
+<phone>03161145145</phone>
+<company>Ali and Co</company>
+</worker>
+</office>
